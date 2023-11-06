@@ -1,0 +1,14 @@
+{
+  "name": "32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_worker.js",
+  "scripts": {
+    "start": "node _worker.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-proxy": "latest",
+    "ws": "^8.14.2"
+  }
+}
